@@ -1,0 +1,18 @@
+C:\Users\asus\Desktop\udemy kurs\döviz kur hesabı\döviz kur hesabı\bin\Debug\döviz kur hesabı.exe.config
+C:\Users\asus\Desktop\udemy kurs\döviz kur hesabı\döviz kur hesabı\bin\Debug\döviz kur hesabı.exe
+C:\Users\asus\Desktop\udemy kurs\döviz kur hesabı\döviz kur hesabı\bin\Debug\döviz kur hesabı.pdb
+C:\Users\asus\Desktop\udemy kurs\döviz kur hesabı\döviz kur hesabı\obj\Debug\döviz kur hesabı.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\döviz kur hesabı\döviz kur hesabı\obj\Debug\döviz_kur_hesabı.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\döviz kur hesabı\döviz kur hesabı\obj\Debug\döviz_kur_hesabı.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\döviz kur hesabı\döviz kur hesabı\obj\Debug\döviz kur hesabı.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\döviz kur hesabı\döviz kur hesabı\obj\Debug\döviz kur hesabı.exe
+C:\Users\asus\Desktop\udemy kurs\döviz kur hesabı\döviz kur hesabı\obj\Debug\döviz kur hesabı.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\döviz kur hesabı\döviz kur hesabı\bin\Debug\döviz kur hesabı.exe.config
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\döviz kur hesabı\döviz kur hesabı\obj\Debug\döviz kur hesabı.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\döviz kur hesabı\döviz kur hesabı\obj\Debug\döviz kur hesabı.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\döviz kur hesabı\döviz kur hesabı\bin\Debug\döviz kur hesabı.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\döviz kur hesabı\döviz kur hesabı\bin\Debug\döviz kur hesabı.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\döviz kur hesabı\döviz kur hesabı\obj\Debug\döviz kur hesabı.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\döviz kur hesabı\döviz kur hesabı\obj\Debug\döviz_kur_hesabı.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\döviz kur hesabı\döviz kur hesabı\obj\Debug\döviz_kur_hesabı.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\döviz kur hesabı\döviz kur hesabı\obj\Debug\döviz kur hesabı.csproj.GenerateResource.Cache
